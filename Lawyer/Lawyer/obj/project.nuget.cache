@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdeBYS/QvlaPA3HVgfqyvhVl0Y6sn4B9PDcgdVfEGf6Kwz4PAbRhIVNZ/AjGRK2LkZZOTYjVNXGZwCbmTzn+LQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\CorsoC#\\05.05.2022\\Lawyer\\Lawyer\\Lawyer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emanuele Masciari\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Emanuele Masciari\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Emanuele Masciari\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

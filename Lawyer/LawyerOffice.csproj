@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Lawyer\**" />
+    <EmbeddedResource Remove="Lawyer\**" />
+    <None Remove="Lawyer\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <Folder Include="Service\" />
+	  <Folder Include="Contracts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApi\AreaGeografica\AreaGeografica.csproj" />
+  </ItemGroup>
+
+</Project>

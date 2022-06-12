@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LawyerOffice", "LawyerOffice.csproj", "{1B5B01E6-90AC-4BDF-8FBD-76D3FC7CBFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaGeografica", "..\WebApi\AreaGeografica\AreaGeografica.csproj", "{CE73C1CA-9E27-4B73-9A60-DBFA4560F72E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5B01E6-90AC-4BDF-8FBD-76D3FC7CBFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5B01E6-90AC-4BDF-8FBD-76D3FC7CBFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5B01E6-90AC-4BDF-8FBD-76D3FC7CBFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5B01E6-90AC-4BDF-8FBD-76D3FC7CBFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE73C1CA-9E27-4B73-9A60-DBFA4560F72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE73C1CA-9E27-4B73-9A60-DBFA4560F72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE73C1CA-9E27-4B73-9A60-DBFA4560F72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE73C1CA-9E27-4B73-9A60-DBFA4560F72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB6492A1-C257-49FD-91CD-45A0998AF638}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "BlogDbContextDatabase": "Server=(local);Database=BlogDb; User id = sa ; password = Pass@word01;Trusted_Connection=False"
+  }
+}

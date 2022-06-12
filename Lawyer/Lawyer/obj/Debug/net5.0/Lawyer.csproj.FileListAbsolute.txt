@@ -1,0 +1,16 @@
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\bin\Debug\net5.0\Lawyer.exe
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\bin\Debug\net5.0\Lawyer.deps.json
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\bin\Debug\net5.0\Lawyer.runtimeconfig.json
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\bin\Debug\net5.0\Lawyer.runtimeconfig.dev.json
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\bin\Debug\net5.0\Lawyer.dll
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\bin\Debug\net5.0\Lawyer.pdb
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\Lawyer.csproj.AssemblyReference.cache
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\Lawyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\Lawyer.AssemblyInfoInputs.cache
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\Lawyer.AssemblyInfo.cs
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\Lawyer.csproj.CoreCompileInputs.cache
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\Lawyer.dll
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\refint\Lawyer.dll
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\Lawyer.pdb
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\Lawyer.genruntimeconfig.cache
+D:\C#\CorsoC#\05.05.2022\Lawyer\Lawyer\obj\Debug\net5.0\ref\Lawyer.dll
